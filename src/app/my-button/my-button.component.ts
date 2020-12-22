@@ -10,6 +10,6 @@ export class MyButtonComponent {
   constructor() {}
 
   openModal(template: TemplateRef<any>) {
-    alert("Product added to the cart success!!");
+    alert("Product added to the cart success!!!");
   }
 }
