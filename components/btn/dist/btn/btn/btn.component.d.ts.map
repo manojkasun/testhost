@@ -1,1 +1,0 @@
-{"version":3,"file":"btn.component.d.ts","sources":["btn.component.d.ts"],"names":[],"mappings":"AAAA;;AACA;AACA;AACA;AACA;AACA;;;AACA","sourcesContent":["import { OnInit } from '@angular/core';\r\nexport declare class BtnComponent implements OnInit {\r\n    variant: string;\r\n    label: string;\r\n    constructor();\r\n    ngOnInit(): void;\r\n}\r\n"]}

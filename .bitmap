@@ -39,5 +39,218 @@
         "origin": "IMPORTED",
         "originallySharedDir": "src/app/components"
     },
+    "cas-aanzee.pairprogramming/stepper@0.0.38": {
+        "files": [
+            {
+                "name": "stepper.component.html",
+                "relativePath": "stepper.component.html",
+                "test": false
+            },
+            {
+                "name": "stepper.component.scss",
+                "relativePath": "stepper.component.scss",
+                "test": false
+            },
+            {
+                "name": "stepper.component.spec.ts",
+                "relativePath": "stepper.component.spec.ts",
+                "test": false
+            },
+            {
+                "name": "stepper.component.ts",
+                "relativePath": "stepper.component.ts",
+                "test": false
+            },
+            {
+                "name": "stepper.module.ts",
+                "relativePath": "stepper.module.ts",
+                "test": false
+            }
+        ],
+        "mainFile": "stepper.module.ts",
+        "rootDir": "components/stepper",
+        "origin": "IMPORTED",
+        "originallySharedDir": "frameworks/angular/src/app/components/stepper"
+    },
+    "fraperleo.angular-tutorial/my-button@0.0.1": {
+        "files": [
+            {
+                "name": "my-button.component.html",
+                "relativePath": "my-button/my-button.component.html",
+                "test": false
+            },
+            {
+                "name": "my-button.component.scss",
+                "relativePath": "my-button/my-button.component.scss",
+                "test": false
+            },
+            {
+                "name": "my-button.component.spec.ts",
+                "relativePath": "my-button/my-button.component.spec.ts",
+                "test": false
+            },
+            {
+                "name": "my-button.component.ts",
+                "relativePath": "my-button/my-button.component.ts",
+                "test": false
+            },
+            {
+                "name": "my-button.module.ts",
+                "relativePath": "my-button/my-button.module.ts",
+                "test": false
+            },
+            {
+                "name": "package.json",
+                "relativePath": "my-button/package.json",
+                "test": false
+            }
+        ],
+        "mainFile": "my-button/my-button.module.ts",
+        "rootDir": "components/my-button",
+        "origin": "IMPORTED",
+        "originallySharedDir": "src/app"
+    },
+    "heyitsgeo.ng-semantic-ui/button@0.0.1": {
+        "files": [
+            {
+                "name": "button.component.html",
+                "relativePath": "button/button.component.html",
+                "test": false
+            },
+            {
+                "name": "button.component.scss",
+                "relativePath": "button/button.component.scss",
+                "test": false
+            },
+            {
+                "name": "button.component.spec.ts",
+                "relativePath": "button/button.component.spec.ts",
+                "test": false
+            },
+            {
+                "name": "button.component.ts",
+                "relativePath": "button/button.component.ts",
+                "test": false
+            },
+            {
+                "name": "button.module.ts",
+                "relativePath": "button/button.module.ts",
+                "test": false
+            },
+            {
+                "name": "package.json",
+                "relativePath": "button/package.json",
+                "test": false
+            }
+        ],
+        "mainFile": "button/button.module.ts",
+        "rootDir": "components/button",
+        "origin": "IMPORTED",
+        "originallySharedDir": "src/app"
+    },
+    "primefaces.primeng/rating@8.0.2": {
+        "files": [
+            {
+                "name": "rating.css",
+                "relativePath": "rating.css",
+                "test": false
+            },
+            {
+                "name": "rating.ts",
+                "relativePath": "rating.ts",
+                "test": false
+            }
+        ],
+        "mainFile": "rating.ts",
+        "rootDir": "components/rating",
+        "origin": "IMPORTED",
+        "originallySharedDir": "src/app/components/rating"
+    },
+    "primefaces.primeng/togglebutton@8.0.2": {
+        "files": [
+            {
+                "name": "togglebutton.ts",
+                "relativePath": "togglebutton.ts",
+                "test": false
+            }
+        ],
+        "mainFile": "togglebutton.ts",
+        "rootDir": "components/togglebutton",
+        "origin": "IMPORTED",
+        "originallySharedDir": "src/app/components/togglebutton"
+    },
+    "valor-software.ngx-bootstrap/typeahead@5.1.1": {
+        "files": [
+            {
+                "name": "index.ts",
+                "relativePath": "typeahead/index.ts",
+                "test": false
+            },
+            {
+                "name": "latin-map.ts",
+                "relativePath": "typeahead/latin-map.ts",
+                "test": false
+            },
+            {
+                "name": "package.json",
+                "relativePath": "typeahead/package.json",
+                "test": false
+            },
+            {
+                "name": "public_api.ts",
+                "relativePath": "typeahead/public_api.ts",
+                "test": false
+            },
+            {
+                "name": "typeahead-animations.ts",
+                "relativePath": "typeahead/typeahead-animations.ts",
+                "test": false
+            },
+            {
+                "name": "typeahead-container.component.html",
+                "relativePath": "typeahead/typeahead-container.component.html",
+                "test": false
+            },
+            {
+                "name": "typeahead-container.component.ts",
+                "relativePath": "typeahead/typeahead-container.component.ts",
+                "test": false
+            },
+            {
+                "name": "typeahead-match.class.ts",
+                "relativePath": "typeahead/typeahead-match.class.ts",
+                "test": false
+            },
+            {
+                "name": "typeahead-options.class.ts",
+                "relativePath": "typeahead/typeahead-options.class.ts",
+                "test": false
+            },
+            {
+                "name": "typeahead-utils.ts",
+                "relativePath": "typeahead/typeahead-utils.ts",
+                "test": false
+            },
+            {
+                "name": "typeahead.config.ts",
+                "relativePath": "typeahead/typeahead.config.ts",
+                "test": false
+            },
+            {
+                "name": "typeahead.directive.ts",
+                "relativePath": "typeahead/typeahead.directive.ts",
+                "test": false
+            },
+            {
+                "name": "typeahead.module.ts",
+                "relativePath": "typeahead/typeahead.module.ts",
+                "test": false
+            }
+        ],
+        "mainFile": "typeahead/index.ts",
+        "rootDir": "components/typeahead",
+        "origin": "IMPORTED",
+        "originallySharedDir": "src"
+    },
     "version": "14.8.8"
 }

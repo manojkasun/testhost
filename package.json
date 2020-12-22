@@ -23,9 +23,16 @@
         "@angular/router": "~10.1.0",
         "@angular/service-worker": "~10.1.0",
         "@bit/austinhenderson19.mobile-components.btn": "file:./components/btn",
+        "@bit/cas-aanzee.pairprogramming.stepper": "file:./components/stepper",
+        "@bit/fraperleo.angular-tutorial.my-button": "file:./components/my-button",
+        "@bit/heyitsgeo.ng-semantic-ui.button": "file:./components/button",
+        "@bit/primefaces.primeng.rating": "file:./components/rating",
+        "@bit/primefaces.primeng.togglebutton": "file:./components/togglebutton",
+        "@bit/valor-software.ngx-bootstrap.typeahead": "file:./components/typeahead",
         "bootstrap": "^4.5.3",
         "dayjs": "^1.9.7",
         "jest-preset-angular": "^8.3.2",
+        "ngx-bootstrap-modal": "^2.0.1",
         "rxjs": "~6.6.0",
         "ts-jest": "^26.4.4",
         "tslib": "^2.0.0",
@@ -54,6 +61,7 @@
         "tslint": "~6.1.0",
         "typescript": "~4.0.2"
     },
+
     "bit": {
         "env": {
             "compiler": "bit.envs/compilers/angular@10.1.6"

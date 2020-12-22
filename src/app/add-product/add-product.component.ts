@@ -11,5 +11,7 @@ export class AddProductComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  checked1: boolean = false;
 
+  checked2: boolean = true;
 }
