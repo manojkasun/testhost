@@ -1,0 +1,41 @@
+{
+  "name": "@bit/austinhenderson19.mobile-components.btn",
+  "version": "1.0.0",
+  "homepage": "https://bit.dev/austinhenderson19/mobile-components/btn",
+  "main": "dist/btn/bundles/bit-austinhenderson19.mobile-components.btn.umd.js",
+  "componentId": {
+    "scope": "austinhenderson19.mobile-components",
+    "name": "btn",
+    "version": "1.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "@angular/common": "10.2.0",
+    "@angular/core": "10.2.0"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/angular@0.2.0"
+    }
+  },
+  "es2015_ivy_ngcc": "__ivy_ngcc__/dist/btn/fesm2015/bit-austinhenderson19.mobile-components.btn.js",
+  "es2015": "dist/btn/fesm2015/bit-austinhenderson19.mobile-components.btn.js",
+  "esm5": "dist/btn/esm5/bit-austinhenderson19.mobile-components.btn.js",
+  "esm2015": "dist/btn/esm2015/bit-austinhenderson19.mobile-components.btn.js",
+  "fesm5": "dist/btn/fesm5/bit-austinhenderson19.mobile-components.btn.js",
+  "fesm2015_ivy_ngcc": "__ivy_ngcc__/dist/btn/fesm2015/bit-austinhenderson19.mobile-components.btn.js",
+  "fesm2015": "dist/btn/fesm2015/bit-austinhenderson19.mobile-components.btn.js",
+  "module": "dist/btn/fesm5/bit-austinhenderson19.mobile-components.btn.js",
+  "typings": "dist/btn/bit-austinhenderson19.mobile-components.btn.d.ts",
+  "metadata": "dist/bit-austinhenderson19.mobile-components.btn.metadata.json",
+  "__processed_by_ivy_ngcc__": {
+    "es2015": "10.1.6",
+    "fesm2015": "10.1.6",
+    "typings": "10.1.6"
+  },
+  "scripts": {
+    "prepublishOnly": "node --eval \"console.error('ERROR: Trying to publish a package that has been compiled by NGCC. This is not allowed.\\nPlease delete and rebuild the package, without compiling with NGCC, before attempting to publish.\\nNote that NGCC may have been run by importing this package into another project that is being built with Ivy enabled.\\n')\" && exit 1"
+  }
+}

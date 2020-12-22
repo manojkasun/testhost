@@ -1,0 +1,17 @@
+.btn {
+  padding: 0.75rem 1.5rem;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(41, 62, 255);
+  color: #fff;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.outline {
+  background-color: transparent;
+  border: 1px solid rgb(41, 62, 255);
+  color: rgb(41, 62, 255);
+}

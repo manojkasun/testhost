@@ -1,0 +1,10 @@
+{
+  "es2015": "dist/btn/fesm2015/bit-austinhenderson19.mobile-components.btn.js",
+  "esm5": "dist/btn/esm5/bit-austinhenderson19.mobile-components.btn.js",
+  "esm2015": "dist/btn/esm2015/bit-austinhenderson19.mobile-components.btn.js",
+  "fesm5": "dist/btn/fesm5/bit-austinhenderson19.mobile-components.btn.js",
+  "fesm2015": "dist/btn/fesm2015/bit-austinhenderson19.mobile-components.btn.js",
+  "module": "dist/btn/fesm5/bit-austinhenderson19.mobile-components.btn.js",
+  "typings": "dist/btn/bit-austinhenderson19.mobile-components.btn.d.ts",
+  "metadata": "dist/bit-austinhenderson19.mobile-components.btn.metadata.json"
+}

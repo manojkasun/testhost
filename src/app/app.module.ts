@@ -9,17 +9,17 @@ import { environment } from '../environments/environment';
 import { ProductsComponent } from './products/products.component';
 import { AddProductComponent } from './add-product/add-product.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { BtnModule } from '@bit/austinhenderson19.mobile-components.btn';
+import { BtnComponent } from './btn/btn.component';
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     ProductsComponent,
-    AddProductComponent
+    AddProductComponent,
+    BtnComponent
   ],
   imports: [
     BrowserModule,
-    BtnModule ,
     AppRoutingModule,
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production }),
     BrowserAnimationsModule
